@@ -1,0 +1,22 @@
+
+.buttons{
+    position: absolute;
+    margin-top:500px;
+    margin-left: 150px;
+}
+
+img {
+    width: 120px;
+}
+
+.button-right{
+    position: relative;
+    top: -124px;
+    right: 124px;
+}
+
+.button-white{
+    position: relative;
+    top: -124px;
+    right: 372px;
+}
